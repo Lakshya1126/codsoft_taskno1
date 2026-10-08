@@ -182,6 +182,7 @@ python chatbot.py
 
 <div align="center">
 
-Made with 🐍 Python
+Developed by Lakshya Kansal
 
 </div>
+
